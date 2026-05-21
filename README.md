@@ -15,6 +15,7 @@ Aplicação interativa que permite ao usuário montar dois times a partir das co
   - https://www.transfermarkt.com.br/statistik/toptorschuetzen
   - https://api-futebol.com.br
   - https://fbref.com/en/
+  - https://github.com/felipeall/transfermarkt-api 
 
 - **Fase de Grupos**
 
