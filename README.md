@@ -1,5 +1,7 @@
 # PROJETO timeperfeito
 
+### Grupo: Anna Clara e Júlia 
+
 ### Ideia do Projeto
 Aplicação interativa que permite ao usuário montar dois times a partir das convocações oficiais de 2026, simular uma partida entre eles e receber uma previsão probabilística do resultado com base nas estatísticas reais dos jogadores selecionados.
 
@@ -50,3 +52,12 @@ Aplicação interativa que permite ao usuário montar dois times a partir das co
 - **Polimorfismo:** cada tipo de jogador tem `calcularDesempenho()` diferente de acordo com sua posição.
 
 - **Encapsulamento:** limite de cadastro de jogadores no elenco, número de camisa inválido, nacionalidade.
+
+
+---
+### Tecnologias que serão utilizadas (stack total):
+ Toda a base de código é mantida em uma única linguagem 
+- Backend: Python
+- Front-end: Streamlit
+
+
