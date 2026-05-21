@@ -11,6 +11,7 @@ Aplicação interativa que permite ao usuário montar dois times a partir das co
 
 - **Convocações 2026:** lista oficial dos jogadores convocados por cada seleção participante, com nome, posição, clube e número da camisa.
 
+
 - **Estatísticas de cada jogador** de acordo com sua posição em campo:
   - https://www.transfermarkt.com.br/statistik/toptorschuetzen
   - https://api-futebol.com.br
@@ -18,6 +19,9 @@ Aplicação interativa que permite ao usuário montar dois times a partir das co
   - https://github.com/felipeall/transfermarkt-api 
 
 - **Fase de Grupos**
+  - https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings
+    Anna: G-L
+    Júlia: A-F
 
 ---
 
