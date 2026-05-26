@@ -16,7 +16,8 @@ Aplicação interativa que permite ao usuário montar dois times a partir das co
   - https://www.transfermarkt.com.br/statistik/toptorschuetzen
   - https://api-futebol.com.br
   - https://fbref.com/en/
-  - https://github.com/felipeall/transfermarkt-api 
+  - https://github.com/felipeall/transfermarkt-api
+  - https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_standard
 
 - **Fase de Grupos**
   - https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings
