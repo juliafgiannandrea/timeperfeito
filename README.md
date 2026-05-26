@@ -13,13 +13,22 @@ Aplicação interativa que permite ao usuário montar dois times a partir das co
 
 
 - **Estatísticas de cada jogador** de acordo com sua posição em campo:
+- Opções que pesquisamos: 
   - https://www.transfermarkt.com.br/statistik/toptorschuetzen
   - https://api-futebol.com.br
   - https://fbref.com/en/
-  - https://github.com/felipeall/transfermarkt-api 
+  - https://github.com/felipeall/transfermarkt-api
+ 
+- Vamos usar:
+  -https://fbref.com/en/squads/304635c3/Brazil-Men-Stats#all_stats_standard
+  Tem uma biblioteca python chamada soccerdata: https://soccerdata.readthedocs.io/en/latest/datasources/FBref.html
+  
+Métricas: Posição, Idade, Partidas Jogadas, Jogos começados pelo jogador, Minutos Jogados, Minutos jogados dividido por 90, Gols, Assistências, Gols + Assistências, NON-Penalty Gols, Penalty Kicks Made, Penalty Kicks Attempted, Cartões Amarelos, Cartões Vermelhos. Métricas por 90 min: Gols, Assistências, Gols + Assistências, Non-Penalty Gols + Assitências
+
 
 - **Fase de Grupos**
   - https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings
+  - 
     Anna: G-L
     Júlia: A-F
 
